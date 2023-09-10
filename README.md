@@ -9,7 +9,7 @@ kaggle의 'book recommendation dataset'을 이용하여 User-based CF, Item-base
 데이터 출처: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 <br>
 
-### 🕰️ 개발 기간
+### 🕰️ 프로젝트 기간
 * 23.08.30 -23.09.06 (7 days)
 
 ### 🧑‍🤝‍🧑 맴버구성 
